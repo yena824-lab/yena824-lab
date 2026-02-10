@@ -14,6 +14,7 @@
 - 📫 How to reach me **yena824@yonsei.ac.kr**
 
 - 📚 Past Projects
+  
   **Food Document Search & Classification System**: RAG, LLM을 활용한 식품 문서 검색 및 분류 시스템
   **Sign Language Generation Model**: Gloss → Pose skeleton coordinates를 생성하는 generative model 개발
   **Document Detection & OCR Pipeline**: 문서 detection 및 텍스트 변환 시스템

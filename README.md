@@ -18,27 +18,17 @@
 ### 🔍 [Food Document Search & Classification System](./LLM-text-classification)
 RAG, LLM을 활용한 식품 문서 검색 및 분류 시스템
 
-<br>
-
 ### 👋 [Sign Language Generation Model](./sign-language-generation)
 Gloss → Pose skeleton coordinates를 생성하는 generative model
-
-<br>
 
 ### 📄 [Document Detection & OCR Pipeline](./document-detection-ocr)
 문서 detection 및 텍스트 변환 시스템
 
-<br>
-
 ### 🏛️ [Architecture Search System](./architecture-search)
 Knowledge Graph 기반 건축물 검색 시스템
 
-<br>
-
 ### 🏢 [Patent Classification Web Platform](./patent-classification)
 기술보증기금 특허 분류 시스템 및 웹페이지 개발
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

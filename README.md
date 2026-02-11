@@ -5,13 +5,13 @@
 
 - 📫 How to reach me **yena824@yonsei.ac.kr**
 
-- 📂 Featured Projects
+## 📂 Featured Projects
 
 ### 🌱 [Vision-based OOD Detection](./grass-ood-detection)
 잔디 이미지 분류를 위한 Out-of-Distribution 검출 연구 (석사 논문)
 
-- 📚 Past Projects
-- 
+## 📚 Past Projects
+
 ### 🔭 [Classification System](./LLM-text-classification)
 LLM을 활용한 식품 문서 분류 시스템
 

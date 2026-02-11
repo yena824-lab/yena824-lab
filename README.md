@@ -1,34 +1,31 @@
 <h1 align="center">Hi 👋, I'm yena</h1>
 <h3 align="center">A passionate frontend developer from Korea</h3>
 
-- 🔭 I’m currently working on **Vision-based Out-of-Distribution Detection for Turf Analysis**
-
-- 🌱 I’m currently learning **Advanced Computer Vision, Multimodal AI, MongoDB optimization**
-
-- 👯 I’m looking to collaborate on **RAG/LLM projects, Computer Vision research, or Knowledge Graph applications**
-
-- 🤝 I’m looking for help with **Advanced OOD detection techniques and vision model optimization**
-
 - 💬 Ask me about **Computer Vision, Multimodal AI, RAG/LLM, Sign Language Generation, MongoDB**
 
 - 📫 How to reach me **yena824@yonsei.ac.kr**
 
+- 📂 Featured Projects
+
+### 🌱 [Vision-based OOD Detection](./grass-ood-detection)
+잔디 이미지 분류를 위한 Out-of-Distribution 검출 연구 (석사 논문)
+
 - 📚 Past Projects
+- 
+### 🔭 [Classification System](./LLM-text-classification)
+LLM을 활용한 식품 문서 분류 시스템
 
-### 🔍 [Food Document Search & Classification System](./LLM-text-classification)
-RAG, LLM을 활용한 식품 문서 검색 및 분류 시스템
+### 🔍 [Classification System](./food-document-rag)
+RAG을 활용한 식품 문서 검색 시스템
 
-### 👋 [Sign Language Generation Model](./sign-language-generation)
+### 👋 [Sign Language Generation Model](./sign-language-multimodal)
 Gloss → Pose skeleton coordinates를 생성하는 generative model
 
-### 📄 [Document Detection & OCR Pipeline](./document-detection-ocr)
-문서 detection 및 텍스트 변환 시스템
+### 🏢 [Patent Classification Web Platform](./patent-web-platform)
+기술보증기금 특허 분류 시스템 및 웹페이지 개발
 
 ### 🏛️ [Architecture Search System](./architecture-search)
 Knowledge Graph 기반 건축물 검색 시스템
-
-### 🏢 [Patent Classification Web Platform](./patent-classification)
-기술보증기금 특허 분류 시스템 및 웹페이지 개발
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

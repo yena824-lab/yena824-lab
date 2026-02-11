@@ -3,7 +3,7 @@
 <p align="center"><em>Specializing in Computer Vision, LLM, and Multimodal AI</em></p>
 
 ## 💬 Ask me about
-Computer Vision, Multimodal AI, RAG/LLM, Sign Language Generation, MongoDB
+Computer Vision, Multimodal AI, RAG/LLM, Frontend Development
 
 ## 📫 Contact
 **yena824@yonsei.ac.kr**

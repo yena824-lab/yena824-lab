@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm yena</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h3 align="center">AI/ML Researcher & Developer from Korea</h3>
+<p align="center"><em>Specializing in Computer Vision, LLM, and Multimodal AI</em></p>
 
-- 💬 Ask me about **Computer Vision, Multimodal AI, RAG/LLM, Sign Language Generation, MongoDB**
+## 💬 Ask me about
+Computer Vision, Multimodal AI, RAG/LLM, Sign Language Generation, MongoDB
 
-- 📫 How to reach me **yena824@yonsei.ac.kr**
+## 📫 Contact
+**yena824@yonsei.ac.kr**
 
 ## 📂 Featured Projects
 

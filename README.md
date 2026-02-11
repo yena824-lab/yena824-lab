@@ -14,18 +14,31 @@
 - 📫 How to reach me **yena824@yonsei.ac.kr**
 
 - 📚 Past Projects
-  
-  **Food Document Search & Classification System**: RAG, LLM을 활용한 식품 문서 검색 및 분류 시스템
-  
-  **Sign Language Generation Model**: Gloss → Pose skeleton coordinates를 생성하는 generative model 개발
-  
-  **Document Detection & OCR Pipeline**: 문서 detection 및 텍스트 변환 시스템
-  
-  **Architecture Search System**: Knowledge Graph 기반 건축물 검색 시스템
-  
-  **Patent Classification Web Platform**: 기술보증기금 특허 분류 시스템 및 웹페이지 개발
-  
-  **Vision-based Out-of-Distribution Detection for Turf Analysis**: 잔디 이미지를 활용한 OOD detection 연구 (Master's Thesis)
+
+### 🔍 [Food Document Search & Classification System](./LLM-text-classification)
+RAG, LLM을 활용한 식품 문서 검색 및 분류 시스템
+
+---
+
+### 🤟 [Sign Language Generation Model](./sign-language-generation)
+Gloss → Pose skeleton coordinates를 생성하는 generative model
+
+---
+
+### 📄 [Document Detection & OCR Pipeline](./document-detection-ocr)
+문서 detection 및 텍스트 변환 시스템
+
+---
+
+### 🏛️ [Architecture Search System](./architecture-search)
+Knowledge Graph 기반 건축물 검색 시스템
+
+---
+
+### 🏢 [Patent Classification Web Platform](./patent-classification)
+기술보증기금 특허 분류 시스템 및 웹페이지 개발
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

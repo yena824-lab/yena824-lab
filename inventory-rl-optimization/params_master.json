@@ -1,0 +1,83 @@
+{
+  "items": {
+    "item3": {
+      "demand": {
+        "family": "nbinom",
+        "params": {
+          "r": 1.4675,
+          "p": 0.09343
+        }
+      },
+      "leadtime": {
+        "family": "gamma",
+        "params": {
+          "k": 4.8978,
+          "theta": 2.2694
+        }
+      }
+    },
+    "item4": {
+      "demand": {
+        "family": "nbinom",
+        "params": {
+          "r": 1.336,
+          "p": 0.14401
+        }
+      },
+      "leadtime": {
+        "family": "lognorm",
+        "params": {
+          "mu": 2.54918,
+          "sigma": 0.4501
+        }
+      }
+    },
+    "item5": {
+      "demand": {
+        "family": "poisson",
+        "params": {
+          "lam": 0.64796
+        }
+      },
+      "leadtime": {
+        "family": "gamma",
+        "params": {
+          "k": 5.9057,
+          "theta": 2.9119
+        }
+      }
+    },
+    "item6": {
+      "demand": {
+        "family": "poisson",
+        "params": {
+          "lam": 0.74595
+        }
+      },
+      "leadtime": {
+        "family": "lognorm",
+        "fit_scope": "ALL",
+        "params": {
+          "mu": 2.904160,
+          "sigma": 1.356163
+        }
+      }
+    },
+    "item8": {
+      "demand": {
+        "family": "nbinom",
+        "params": {
+          "r": 0.9155,
+          "p": 0.17093
+        }
+      },
+      "leadtime": {
+        "family": "lognorm",
+        "params": {
+          "mu": 2.656848,
+          "sigma": 0.68093
+        }
+      }
+    }
+  }
+}

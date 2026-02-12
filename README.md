@@ -27,6 +27,9 @@ Gloss → Pose skeleton coordinates를 생성하는 generative model
 ### 🏢 [Patent Classification Web Platform](./patent-web-platform)
 기술보증기금 특허 분류 시스템 및 웹페이지 개발
 
+### 📦 [Inventory Optimization System](./inventory-rl-optimization)
+강화학습 기반 재고 관리 최적화 시스템
+
 ### 🏛️ [Architecture Search System](./architecture-search)
 Knowledge Graph 기반 건축물 검색 시스템
 

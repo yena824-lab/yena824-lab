@@ -8,11 +8,6 @@ Computer Vision, Multimodal AI, RAG/LLM, Frontend Development
 ## 📫 Contact
 **yena824@yonsei.ac.kr**
 
-## 📂 Featured Projects
-
-### 🌱 [Vision-based OOD Detection](./grass-ood-detection)
-잔디 이미지 분류를 위한 Out-of-Distribution 검출 연구 (석사 논문)
-
 ## 📚 Past Projects
 
 ### 🔭 [Classification System](./LLM-text-classification)
@@ -21,17 +16,11 @@ LLM을 활용한 식품 문서 분류 시스템
 ### 🔍 [Classification System](./food-document-rag)
 RAG을 활용한 식품 문서 검색 시스템
 
-### 👋 [Sign Language Generation Model](./sign-language-multimodal)
-Gloss → Pose skeleton coordinates를 생성하는 generative model
-
 ### 🏢 [Patent Classification Web Platform](./patent-web-platform)
 기술보증기금 특허 분류 시스템 및 웹페이지 개발
 
 ### 📦 [Inventory Optimization System](./inventory-rl-optimization)
 강화학습 기반 재고 관리 최적화 시스템
-
-### 🏛️ [Architecture Search System](./architecture-search)
-Knowledge Graph 기반 건축물 검색 시스템
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
